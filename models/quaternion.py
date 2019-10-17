@@ -37,7 +37,7 @@ from tensor2tensor.layers import common_layers
 # from tyt2t.layers import shake_layers
 from ../layers import quaternion_attention as common_attention
 # from ../layers import common_attention
-from ..layers import quaternion_transformer as transformer_layers
+from ../layers import quaternion_transformer as transformer_layers
 from tensor2tensor.utils import beam_search
 from tensor2tensor.utils import expert_utils
 from tensor2tensor.utils import mlperf_log
